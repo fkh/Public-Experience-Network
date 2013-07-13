@@ -6,4 +6,4 @@ This document is the outcome from a working group discussion at #FOCAS13. Please
 This group got started with a discussion about 'Citizen-Government Interaction for Legislative or Regulatory Activities'. We converged on the concept of a register of citizen experts, comparable to donor registration (which in DC can be opted-into at the DMV). After further discussion, we focused on an approach that helps cities tap experience to address specific issues.
 
 
-Slides: http://bit.ly/FOCASPEN
+Slides: https://docs.google.com/a/openplans.org/presentation/d/1LEVnPG6eldXFjm8GHrU-9igH4cweg9kijcTC1zIVrzo/present#slide=id.p
