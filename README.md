@@ -52,18 +52,18 @@ Feedback from the group at FOCAS:
 ### What other similar tools are out there?
 
 Volunteering tools
-* Sparkd
-* Catchafire
-* Volunteer Network
-* SCORE - senior citizens, expert business counselling.
-* RSVP - another retired service person group.
+- Sparkd
+- Catchafire
+- Volunteer Network
+- SCORE - senior citizens, expert business counselling.
+- RSVP - another retired service person group.
 
 Existing networks
-* small community consultations (e.g. citizen committee to help rebuild a playground)
-* Kathy Conrad's network for micro-tasking
+- small community consultations (e.g. citizen committee to help rebuild a playground)
+- Kathy Conrad's network for micro-tasking
 
 Recognition and rewards
-* Street Cred
+- Street Cred
   
 ### Slides
 Slides: https://docs.google.com/a/openplans.org/presentation/d/1LEVnPG6eldXFjm8GHrU-9igH4cweg9kijcTC1zIVrzo/present#slide=id.p
