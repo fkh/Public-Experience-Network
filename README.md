@@ -10,7 +10,7 @@ What's the problem solved by the Public Experience Network?
 ---------------------
 There is no perfectly engaged citizen. No individual who participates in every single local meeting, responds to all calls for comment or draft proposals, attends each Council hearing, votes in every election. But most people are smart about something: riders of a specific bus line on how that impacts their commute, youth and their parents around a park.
 
-Public Experience Network taps into the latent and under-used experience of citizens, and makes it accessible for governments. 
+Public Experience Network taps into the latent and under-used experience of citizens, and makes it accessible for city government. 
 
 Who uses it?
 ---------------------
@@ -22,8 +22,20 @@ Citizens who self-identify as having some kind of expertise.
 How do municipalities co-create with help from citizen expertise?
 ----------------
 
+This is not about “asking” or "ideation", it’s about solving a clearly-defined problem.
+
+Taps community talent that is going to waste.
+
+Opportunity to shape future behavior -- creates a new experience of what civic engagement can be.
+
+How people get involved (some combination of LinkedIn, in-person requests from gov, outreach at gas stations, etc)
+
+
+
+
 What's the citizen experience?
 ----------------
+
 
 
 Challenges and concerns
@@ -33,7 +45,7 @@ Does this set back open gov efforts -- if city governments invite contributions 
 
 Start small and offline - find a topic area and a network, then build the tool later.
 
-
+What's the right size of municipality for PEN? Maybe small ones where gov and citizens are already close?
 
 
 
