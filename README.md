@@ -4,15 +4,16 @@
 ### Public Experience Network: Tapping Talent and Experience to Co-create Solutions to Government Challenges 
 
 
-This document is the outcome from a working group discussion at #FOCAS13. Please comment, modify and extend it.
+This document is the outcome from a working group discussion at [#FOCAS13](http://www.aspeninstitute.org/policy-work/communications-society/FOCAS2013). 
 
-This group got started with a discussion about 'Citizen-Government Interaction for Legislative or Regulatory Activities'. We converged on the concept of a register of citizen experts, comparable to organ donor registration (which in DC can be opted-into at the DMV). After further discussion, we focused on an approach that helps cities tap experience to address specific issues.
+Please comment, modify and extend this draft. [Suggest a change](https://github.com/fkh/Public-Experience-Network/issues) or submit changes via [a pull request](https://github.com/fkh/Public-Experience-Network/pulls).
 
+This group got started with a discussion about 'Citizen-Government Interaction for Legislative or Regulatory Activities'. We converged on the concept of a register of citizen experts, comparable to organ donor registration (which in DC can be opted-into at the DMV). After further discussion, we focused on an approach that helps city staff directly tap experience around specific issues.
 
-### What's the problem solved by the Public Experience Network?
+### What's the problem we're solving with the Public Experience Network?
 There is no perfectly engaged citizen. No individual who participates in every single local meeting, responds to all calls for comment or draft proposals, attends each Council hearing, votes in every election. But most people are smart about something: riders of a specific bus line on how that impacts their commute, youth and their parents around a park.
 
-Public Experience Network taps into the latent and under-used experience of citizens, and makes it accessible for city government. 
+The Public Experience Network taps into the latent and under-used experience of citizens, and makes it accessible for city government. It's a technology platform that makes focused, time-limited conversations possible between city staff and citizens.
 
 ### Who uses it?
 Government staff, by requesting expertise on specific local issues.
