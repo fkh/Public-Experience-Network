@@ -60,7 +60,7 @@ Volunteering tools
 
 Existing networks
 - small community consultations (e.g. citizen committee to help rebuild a playground)
-- Kathy Conrad's network for micro-tasking
+- [The Open Opportunities Initiative at the GSA's Digital Services Innovation Center](http://gsablogs.gsa.gov/dsic/how-it-works/), a network for micro-tasking by federal employees.
 
 Recognition and rewards
 - Street Cred
