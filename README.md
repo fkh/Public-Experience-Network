@@ -22,7 +22,7 @@ The relationship between citizens and cities that PEN facilitates is not about â
 The network starts small and focused around a few "verticals", e.g. local transportation issues, parks, trash and sanitation. 
 
 ### What's the citizen experience?
-Participating in the Citizen Expertise Network is designed to be a rewarding civic experience. The platform can be smart about recognition -- for example, triggering preparation of a letter from the Mayor once you share your expertise three times. Many aspects need to be designed and refined, learning from citizen users to understand their tolerance for getting contacted, the right duration of engagement, whose contact emails are the most effective at getting responses, and so on. 
+Participating in the Public Experience Network is designed to be a rewarding civic experience. The platform can be smart about recognition -- for example, triggering preparation of a letter from the Mayor once you share your expertise three times. Many aspects need to be designed and refined, learning from citizen users to understand their tolerance for getting contacted, the right duration of engagement, whose contact emails are the most effective at getting responses, and so on. 
 
 City staff invite people to become involved through a variety of outreach methods: face to face requests, invitations to participate at the end of other government interactions at City Hall and the DMV, promotion on screens at gas stations. (This is a marketing challenge. We don't yet know the best approaches, we'll want to establish these through user testing with staff in government and citizens.) 
 
@@ -40,11 +40,11 @@ Feedback from the group at FOCAS:
 - Can we start with some cities where it's possible do a lot of hand holding.
 - Commerce should be incorporated (argument that we need to pay the experts)
 - We should build the experience before building the tech
-- how will this be accept into the public record?
-- how can you get people beyond the rockstars using this.
+- How will this be accepted into the public record?
+- How can you get people beyond the rockstars using this.
 - Look at Kathy Conrad's microtasking process for government staff, with badges and visible recognition as an incentive.
-- maybe introduce a vetting process, start with civic engagement and then work up to what people might be good at.
-- identify two problems in our communities
+- Maybe introduce a vetting process, start with civic engagement and then work up to what people might be good at.
+- Identify two problems in our communities
 - Does this set back open gov efforts -- if city governments invite contributions but don't act on them, or if they take bad advice and act on it? What does this informal approach to government do -- government is formal for a reason.
 - Start small and offline - find a topic area and a network, then build the tool later.
 - What's the right size of municipality for PEN? Maybe small ones where gov and citizens are already close?
