@@ -12,14 +12,20 @@ The Public Experience Network taps into the latent and under-used experience of 
 
 ### Who uses it?
 There are two groups of users served by the Public Experience Network:
-* Government staff, who use the network to get expertise from municipal residents about specific local issues.
-* Municipal residents, who self-identify as having experience and make themselves available.
+- Government staff, who use the network to get expertise from municipal residents about specific local issues.
+- Municipal residents, who self-identify as having experience and make themselves available.
 
 
 ### How do municipalities co-create with help from citizen expertise?
 The relationship between citizens and cities that PEN facilitates is not about “asking” or "ideation", it’s about solving a clearly-defined problem. The tool makes it easy to taps community talent that is going to waste. 
 
 The network starts small and focused around a few "verticals", e.g. local transportation issues, parks, trash and sanitation. 
+
+We see three areas to start with:
+- identify categories where cities need help
+- identify categories where citizens can help
+- come up with a group of funnels, where we collect the people who are the intellectual capital for the tool.
+
 
 ### What's the citizen experience?
 Participating in the Public Experience Network is designed to be a rewarding civic experience. The platform can be smart about recognition -- for example, triggering preparation of a letter from the Mayor once you share your expertise three times. Many aspects need to be designed and refined, learning from citizen users to understand their tolerance for getting contacted, the right duration of engagement, whose contact emails are the most effective at getting responses, and so on. 
