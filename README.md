@@ -51,6 +51,9 @@ Feedback from the group at FOCAS:
 
 ### What other similar tools are out there?
 
+Similar models
+- [The Public Insight Network](http://www.publicinsightnetwork.org/)
+
 Volunteering tools
 - Sparkd
 - Catchafire
